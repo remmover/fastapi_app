@@ -16,3 +16,4 @@ class ContactResponse(ContactSchema):
 
     class Config:
         from_attributes = True
+і
