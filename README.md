@@ -62,4 +62,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to customize the README further with any additional information or details specific to your project. Make sure to replace placeholders like `your-username`, add any additional sections you deem necessary, and include instructions on how to set up and use your web API.
